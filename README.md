@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Computer science engineering with specialization in Machine Learning
 - 📫 How to reach me :
 -  [Email Me](mailto:riteshmaharnavar049@gmail.com)
--  [Connect on LinkedIn](https://www.linkedin.com/in/atul-deshpande-504898271)
+-  [Connect on LinkedIn](www.linkedin.com/in/ritesh-maharnavar-773a9b279)
 - ⚡ Fun fact: 
 
 
